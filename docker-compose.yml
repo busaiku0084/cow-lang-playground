@@ -1,0 +1,4 @@
+services:
+  cow-lang:
+    build: .
+    container_name: cow-lang-runner
